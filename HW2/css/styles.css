@@ -83,6 +83,7 @@ img {
     margin-top: 62px;
     margin-bottom: 32px;
     color: #B4AD9E;
+    text-transform: uppercase;
 }
 
 .title {
@@ -113,4 +114,8 @@ img {
 .card h2, .card p {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
+}
+
+.box {
+    margin-bottom: 90px;
 }
