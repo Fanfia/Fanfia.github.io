@@ -12,10 +12,10 @@
 
 // 2
 
-// let k1 = (Number.parseInt("5px")),
-//     k2 = (Number.parseInt("12djd334")),
-//     k3 = (Number.parseInt("12.45asdwe12")),
-//     k4 = (Number.parseInt("qwqweeewq"));
+// let k1 = (Number.parseFloat("5px")),
+//     k2 = (Number.parseFloat("12djd334")),
+//     k3 = (Number.parseFloat("12.45asdwe12")),
+//     k4 = (Number.parseFloat("qwqweeewq"));
 
 // console.log(k1);
 // console.log(k2);
